@@ -32,3 +32,4 @@ Notes and usage details for active_genie.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
