@@ -31,3 +31,4 @@ The Lodash for GenAI: Real Value + Consistent + Model-Agnostic
 # drop an unused branch
 # avoid re-reading the config on every call
 # guard against empty input
+# handle the edge case from the last release
