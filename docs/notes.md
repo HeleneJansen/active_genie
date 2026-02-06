@@ -44,3 +44,4 @@ Notes and usage details for active_genie.
 - clarify the setup steps
 - add a note about the defaults
 - link the usage section
+- clarify the setup steps
