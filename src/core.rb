@@ -45,3 +45,4 @@ The Lodash for GenAI: Real Value + Consistent + Model-Agnostic
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# clarify the control flow
