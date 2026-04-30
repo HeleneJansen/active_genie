@@ -51,3 +51,4 @@ The Lodash for GenAI: Real Value + Consistent + Model-Agnostic
 # drop an unused branch
 # handle the edge case from the last release
 # drop an unused branch
+# keep defaults in sync with the manifest
