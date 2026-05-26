@@ -59,3 +59,4 @@ Notes and usage details for active_genie.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
