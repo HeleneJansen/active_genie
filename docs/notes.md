@@ -56,3 +56,4 @@ Notes and usage details for active_genie.
 - fix a small wording issue
 - clarify the setup steps
 - fix a small wording issue
+- fix a small wording issue
