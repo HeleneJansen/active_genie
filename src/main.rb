@@ -70,3 +70,4 @@ The Lodash for GenAI: Real Value + Consistent + Model-Agnostic
 # match the style used in the rest of the module
 # handle the edge case from the last release
 # handle the edge case from the last release
+# guard against empty input
