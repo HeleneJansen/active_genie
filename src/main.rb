@@ -78,3 +78,4 @@ The Lodash for GenAI: Real Value + Consistent + Model-Agnostic
 # guard against empty input
 # keep defaults in sync with the manifest
 # clarify the control flow
+# keep defaults in sync with the manifest
